@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello, My name is Biruk Asefa, i am a junior software developer. I am currntly taking software courses at ALX. I am looking forward to be one of the best.
 <!--
 **iambiruk/iambiruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
